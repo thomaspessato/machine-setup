@@ -21,8 +21,8 @@
 [.bash_aliases](./.bash_aliases)
 
 ##npm
-sudo npm install -g grunt-cli
-sudo npm install http-server
+* sudo npm install -g grunt-cli
+* sudo npm install http-server
 
 ##config
 [Breve]
