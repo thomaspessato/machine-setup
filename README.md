@@ -32,6 +32,7 @@ sudo npm install http-server
 * google-chrome
 * opera
 * skype
+* dropbox
 * sublime
 
 ##mordern ie
@@ -49,8 +50,8 @@ sudo npm install http-server
 * win8.1 - ie11
     * wget -i https://az412801.vo.msecnd.net/vhd/VMBuild_20140402/VirtualBox/IE11_Win8.1/Linux/IE11.Win8.1.For.LinuxVirtualBox.txt
 
-#### problens
-#####acentuation problem
+#### problems
+#####accentuation problem
 Remove Ibus Framework.
 
 * sudo apt-get remove --purge ibus
