@@ -8,7 +8,8 @@
 * sudo apt-get install ssh
 * sudo apt-get install filezilla
 * sudo apt-get install nodejs-legacy
-
+* sudo apt-get install byobu
+* sudo apt-get install htop
 
 ##git
 * https://github.com/creationix/nvm
@@ -16,6 +17,7 @@
 ##.bashrc
 * NVM - Node version control:
     * source ~/.nvm/nvm.sh
+    * byobu
 
 ##.bash_aliases
 [.bash_aliases](./.bash_aliases)
