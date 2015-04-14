@@ -10,21 +10,24 @@
 * sudo apt-get install nodejs-legacy
 * sudo apt-get install byobu
 * sudo apt-get install htop
+* sublime-text-3
+   * sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   * sudo apt-get update
+   * sudo apt-get install sublime-text-installer
 
 ##git
 * https://github.com/creationix/nvm
 
 ##.bashrc
-* NVM - Node version control:
-    * source ~/.nvm/nvm.sh
-    * byobu
+* source ~/.nvm/nvm.sh
+* byobu
 
 ##.bash_aliases
 [.bash_aliases](./.bash_aliases)
 
 ##npm
-* sudo npm install -g grunt-cli
-* sudo npm install http-server
+* npm install -g grunt-cli
+* npm install http-server
 
 ##config
 [Breve]
@@ -35,7 +38,6 @@
 * opera
 * skype
 * dropbox
-* sublime
 
 ##mordern ie
 * win7 - ie8
@@ -53,10 +55,8 @@
     * wget -i https://az412801.vo.msecnd.net/vhd/VMBuild_20140402/VirtualBox/IE11_Win8.1/Linux/IE11.Win8.1.For.LinuxVirtualBox.txt
 
 #### problems
-#####accentuation problem
-Remove Ibus Framework.
-
-* sudo apt-get remove --purge ibus
+* Accentuation problem
+   * sudo apt-get remove --purge ibus
 
 #####gnome interface problem
 * sudo apt-get install [--]
