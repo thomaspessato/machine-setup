@@ -2,7 +2,8 @@
 
 ![Massacote Setup](./doc/img/setup.png)
 
-##apt-get
+
+## apt-get install
 * sudo apt-get install vim
 * sudo apt-get install git
 * sudo apt-get install ssh
@@ -15,31 +16,33 @@
    * sudo apt-get update
    * sudo apt-get install sublime-text-installer
 
-##git
-* https://github.com/creationix/nvm
 
-##.bashrc
-* source ~/.nvm/nvm.sh
-* byobu
-
-##.bash_aliases
-[.bash_aliases](./.bash_aliases)
-
-##npm
-* npm install -g grunt-cli
-* npm install http-server
-
-##config
-[Breve]
-
-##install
+## .deb install
 * firefox
 * google-chrome
 * opera
 * skype
 * dropbox
 
-##mordern ie
+
+## git
+* https://github.com/creationix/nvm
+
+
+## .bashrc
+* source ~/.nvm/nvm.sh; nvm use 0.11 
+* byobu
+
+## .bash_aliases
+[.bash_aliases](./.bash_aliases)
+
+
+## npm
+* npm install -g grunt-cli
+* npm install http-server
+ 
+
+## VM's - mordernIE
 * win7 - ie8
     * wget -i https://az412801.vo.msecnd.net/vhd/VMBuild_20131127/VirtualBox/IE8_Win7/Linux/IE8.Win7.For.LinuxVirtualBox.txt
 * win7 - ie9
@@ -54,9 +57,11 @@
 * win8.1 - ie11
     * wget -i https://az412801.vo.msecnd.net/vhd/VMBuild_20140402/VirtualBox/IE11_Win8.1/Linux/IE11.Win8.1.For.LinuxVirtualBox.txt
 
+
 #### problems
 * Accentuation problem
    * sudo apt-get remove --purge ibus
 
-#####gnome interface problem
+
+##### gnome interface problem
 * sudo apt-get install [--]
