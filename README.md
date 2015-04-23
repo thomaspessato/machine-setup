@@ -37,8 +37,10 @@
 
 
 ## npm
-* npm install -g grunt-cli
 * npm install http-server
+* npm install -g harmonic
+* npm install -g grunt-cli
+
  
 
 ## VM's - mordernIE
