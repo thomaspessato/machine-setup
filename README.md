@@ -8,7 +8,6 @@
 * sudo apt-get install git
 * sudo apt-get install ssh
 * sudo apt-get install filezilla
-* sudo apt-get install nodejs-legacy
 * sudo apt-get install byobu
 * sudo apt-get install htop
 * sublime-text-3
