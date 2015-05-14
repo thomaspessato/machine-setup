@@ -29,8 +29,9 @@
 
 
 ## .bashrc
-* source ~/.nvm/nvm.sh; nvm use 0.11 
+* source ~/.nvm/nvm.sh; nvm use [version]
 * byobu
+
 
 ## .bash_aliases
 [.bash_aliases](./.bash_aliases)
@@ -40,7 +41,6 @@
 * npm install http-server
 * npm install -g harmonic
 * npm install -g grunt-cli
-
  
 
 ## VM's - mordernIE
