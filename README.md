@@ -24,6 +24,11 @@
 * dropbox
 
 
+## tar.bz2 install
+* [Firefox developer Edtion](https://www.mozilla.org/pt-BR/firefox/developer/)
+  * descompact and copy to /opt/
+  * on __/home/[user]/.local/share/applications__ create file [__firefox-dev.desktop__](./firefox-dev.desktop), 
+
 ## git
 * https://github.com/creationix/nvm
 
