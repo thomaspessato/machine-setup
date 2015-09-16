@@ -1,4 +1,4 @@
-alias sub='/opt/sublime_text/sublime_text'
+alias sbl='/opt/sublime_text/sublime_text'
 
 alias chr='google-chrome &'
 
