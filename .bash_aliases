@@ -1,16 +1,14 @@
-alias sublime='/opt/sublime_text/sublime_text'
+alias sub='/opt/sublime_text/sublime_text'
 
+alias chr='google-chrome &'
 
-alias chrome='google-chrome &'
+alias ff='firefox &'
 
-alias firefox='firefox &'
+alias op='opera &'
 
-alias firefoxdev='/opt/firefox-dev/firefox'
+alias sk='skype &'
 
-
-alias skype='skype &'
-
-alias spotify='spotify &'
+alias spt='spotify &'
 
 alias filezilla='filezilla &'
 
