@@ -14,6 +14,10 @@
    * sudo add-apt-repository ppa:webupd8team/sublime-text-3
    * sudo apt-get update
    * sudo apt-get install sublime-text-installer
+* pulseaudio-equalizer
+   * sudo add-apt-repository ppa:nilarimogard/webupd8
+   * sudo apt-get update
+   * sudo apt-get install pulseaudio-equalizer
 
 
 ## .deb install
@@ -32,7 +36,6 @@
 ## git
 * https://github.com/creationix/nvm
 
-
 ## .bashrc
 * source ~/.nvm/nvm.sh; nvm use [version]
 * byobu
@@ -43,9 +46,8 @@
 
 
 ## npm
-* npm install http-server
+* npm install -g http-server
 * npm install -g harmonic
-* npm install -g grunt-cli
  
 
 ## VM's - mordernIE
@@ -67,7 +69,3 @@
 #### problems
 * Accentuation problem
    * sudo apt-get remove --purge ibus
-
-
-##### gnome interface problem
-* sudo apt-get install [--]
