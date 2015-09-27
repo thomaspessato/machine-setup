@@ -13,3 +13,7 @@ alias spt='spotify &'
 alias filezilla='filezilla &'
 
 alias virtualbox='virtualbox &'
+
+alias pgadm='pgadmin3 &'
+
+alias jvpn='cd /home/unlock/jvpn-0.7.0; sudo perl jvpn.pl'
