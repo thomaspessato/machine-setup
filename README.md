@@ -35,6 +35,7 @@ dnf     === Fedora23+
     * source ~/.nvm/nvm.sh;
 * [.bash_aliases](./file-config/.bash_aliases) 
 * [.vimrc](./file-config/.vimrc)
+    * git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 
 ## NodeJS
