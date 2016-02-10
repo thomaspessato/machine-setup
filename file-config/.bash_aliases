@@ -6,7 +6,7 @@
 # Browsers
 # ################################################################ 
 alias ff='firefox &'
-alias ffdev='cd /opt/firefox/; ./firefox; cd'
+alias ffdev='cd /opt/firefox/; ./firefox & cd'
 alias chr='google-chrome &'
 alias op='opera &'
 
