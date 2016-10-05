@@ -14,7 +14,7 @@ dnf     === Fedora23+
 * sudo [apt-get || dnf] install ssh
 * sudo [apt-get || dnf] install byobu
 * sudo [apt-get || dnf] install htop
-
+* ![Spotify](https://www.spotify.com/br/download/linux/)
 
 ## .deb install
 * firefox
@@ -28,7 +28,6 @@ dnf     === Fedora23+
 * [Firefox developer Edtion](https://www.mozilla.org/pt-BR/firefox/developer/)
   * descompact and copy to /opt/
   * on __/home/[user]/.local/share/applications__ create file [__firefox-dev.desktop__](./firefox-dev.desktop), 
-
 
 ## File Config
 * .bashrc
