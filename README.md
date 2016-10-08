@@ -16,6 +16,16 @@ dnf     === Fedora23+
 * sudo [apt-get || dnf] install htop
 * ![Spotify](https://www.spotify.com/br/download/linux/)
 
+
+## Juniper dependencies
+* Java 1.6+ 32bits
+* gcc 32bits
+* libc 32bits
+* perl 5+ 32bits
+* LWP::Protocol::https (sudo apt-get install liblwp-protocol-https-perl)
+* TermReadKey (sudo apt-get install libterm-readkey-perl)
+* YAML (sudo apt-get install yaml-mode)
+
 ## .deb install
 * firefox
 * google-chrome
