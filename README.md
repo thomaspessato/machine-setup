@@ -22,9 +22,9 @@ dnf     === Fedora23+
 * gcc 32bits
 * libc 32bits
 * perl 5+ 32bits
-* LWP::Protocol::https (sudo apt-get install liblwp-protocol-https-perl)
-* TermReadKey (sudo apt-get install libterm-readkey-perl)
-* YAML (sudo apt-get install yaml-mode)
+* LWP::Protocol::https __/__ _sudo apt-get install liblwp-protocol-https-perl_
+* TermReadKey __/__ _sudo apt-get install libterm-readkey-perl_
+* YAML __/__ _sudo apt-get install yaml-mode_
 
 ## .deb install
 * firefox
